@@ -1,9 +1,9 @@
-## Olá, muito prazer! Eu sou a Carol 😊
+## Olá, muito prazer! Eu sou a Carol 😊 sempre à procura de novos desafios na área de tecnologia.
 
 <div align="center">
 <a href="https://github.com/carolineangeli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolineangeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineangeli&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolineangeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineangeli&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
 ##
@@ -11,11 +11,11 @@
   Me aventurando nas linguagens 👇 
   
 <div style="display: inline_block"><br>
-<img align="center" alt="Carol-1" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Carol-2" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-<img align="center" alt="Carol-3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Carol-4" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Carol-5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Carol-1" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Carol-2" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img align="center" alt="Carol-3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Carol-4" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Carol-5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
