@@ -11,11 +11,11 @@
   Me aventurando nas linguagens 👇 
   
 <div style="display: inline_block"><br>
-<img alt="Carol-1" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="Carol-2" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-<img alt="Carol-3" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="Carol-4" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Carol-5" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Carol-1" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Carol-2" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img align="center" alt="Carol-3" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Carol-4" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Carol-5" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
