@@ -1,11 +1,5 @@
 ## Olá, muito prazer! Eu sou a Carol 😊 
 
-<div>
-<a href="https://github.com/carolineangeli">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=carolineangeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineangeli&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-  
 ##
   
   Me aventurando nas linguagens 👇 
@@ -17,6 +11,13 @@
 <img  alt="Carol-4" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img  alt="Carol-5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<div>
+<a href="https://github.com/carolineangeli">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=carolineangeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineangeli&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
+  
   
   ##
   
