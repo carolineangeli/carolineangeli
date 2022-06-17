@@ -1,4 +1,4 @@
-## Olá, muito prazer! Eu sou a Carol 😊 sempre à procura de novos desafios na área de tecnologia.
+## Olá, muito prazer! Eu sou a Carol 😊 
 
 <div>
 <a href="https://github.com/carolineangeli">
