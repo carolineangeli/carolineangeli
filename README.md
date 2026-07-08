@@ -1,6 +1,7 @@
 # Olá! Eu sou a Carol 👋
 Software Engineer em transição de carreira, com mais de 6 anos de experiência em Engenharia de Qualidade de Software e direcionando minha atuação para o desenvolvimento de software com TypeScript.
 💜 Integrante da comunidade **#WomenInTech**
+
 ---
 
 ## 💻 Tecnologias
