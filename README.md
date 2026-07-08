@@ -62,28 +62,6 @@ Utilizo Inteligência Artificial para acelerar atividades de Engenharia de Softw
 
 ---
 
-## 📚 Atualmente estudando
-- TypeScript
-- Node.js
-- APIs REST
-- Arquitetura de Software
-- Clean Code
-- Boas práticas de desenvolvimento
-
----
-
-## 🚀 Projetos em destaque
-
-Em breve você encontrará aqui projetos desenvolvidos para consolidar meus estudos em:
-
-- APIs REST com TypeScript
-- Node.js
-- Back-end
-- Boas práticas de desenvolvimento
-- Arquitetura de Software
-
----
-
 ## 📫 Vamos nos conectar
 
 <div>
