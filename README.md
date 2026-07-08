@@ -17,18 +17,23 @@ Além do desenvolvimento, utilizo Inteligência Artificial para potencializar pr
 <div style="display: inline_block">
 <img align="center" alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ---
 
-## ⚙️ Ferramentas & Plataformas
+## 🧰 Ferramentas de Desenvolvimento + Bancos de Dados + Qualidade
 <div>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xray-5A2D81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BrowserStack-FF7139?style=for-the-badge&logo=browserstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/CTFL-0052CC?style=for-the-badge"/>
+</div>
 </div>
 
 ---
