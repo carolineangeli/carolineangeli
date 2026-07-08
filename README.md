@@ -24,8 +24,8 @@ Também utilizo Inteligência Artificial para aumentar a produtividade no desenv
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" target="_blank"></a>
-<img align="center" alt="ChatGPT" height="30" width="40" src="https://cdn.simpleicons.org/openai">
-<img align="center" alt="Claude" height="30" width="40" src="https://cdn.simpleicons.org/anthropic">
+<img alt="ChatGPT" height="30" width="40" src="https://cdn.simpleicons.org/openai"></a>
+<img alt="Claude" height="30" width="40" src="https://cdn.simpleicons.org/anthropic"></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
