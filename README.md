@@ -28,7 +28,6 @@ Além do desenvolvimento, utilizo Inteligência Artificial para potencializar pr
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Xray-5A2D81?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BrowserStack-FF7139?style=for-the-badge&logo=browserstack&logoColor=white"/>
