@@ -50,19 +50,3 @@ Utilizo Inteligência Artificial para acelerar atividades de Engenharia de Softw
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-
----
-
-## 📫 Vamos nos conectar
-
-<div>
-
-<a href="mailto:carolineangelidesa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/carolineangelidesa/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
