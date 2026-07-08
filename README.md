@@ -1,15 +1,6 @@
 # Olá! Eu sou a Carol 👋
-
-Software Engineer em transição de carreira, com experiência em Engenharia de Qualidade de Software e foco em Desenvolvimento utilizando TypeScript.
-
-Ao longo da minha trajetória participei de projetos nos setores de logística, turismo, fintechs e comércio exterior, colaborando com equipes multidisciplinares em todas as etapas do ciclo de desenvolvimento.
-
-Minha experiência combina desenvolvimento, qualidade de software, automação de testes, análise de requisitos e práticas de Shift Left, contribuindo para a entrega de aplicações mais confiáveis e sustentáveis.
-
-Além do desenvolvimento, utilizo Inteligência Artificial para potencializar produtividade, automação e engenharia de software, criando prompts especializados, agentes e fluxos para análise de requisitos, geração de cenários BDD, validação de regras de negócio e documentação técnica.
-
+Software Engineer em transição de carreira, com mais de 6 anos de experiência em Engenharia de Qualidade de Software e direcionando minha atuação para o desenvolvimento de software com TypeScript.
 💜 Integrante da comunidade **#WomenInTech**
-
 ---
 
 ## 💻 Tecnologias
