@@ -29,7 +29,7 @@ Software Engineer em transição de carreira, com mais de 7 anos de experiência
 
 ---
 
-## 🤖 AI Engineering & Prompt Engineering
+## 🤖 AI Engineering
 
 Utilizo Inteligência Artificial para acelerar atividades de Engenharia de Software, Engenharia de Qualidade e Desenvolvimento, criando fluxos e prompts especializados para aumentar produtividade e cobertura técnica.
 
@@ -40,12 +40,6 @@ Utilizo Inteligência Artificial para acelerar atividades de Engenharia de Softw
 - Prompt Engineering
 - Engenharia de Contexto
 - AI Agents
-- RAG (Retrieval-Augmented Generation)
-- Geração de Cenários BDD
-- Revisão de Requisitos (Shift Left)
-- Análise de Regras de Negócio
-- Geração de Bug Reports
-- Automação de documentação técnica
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
