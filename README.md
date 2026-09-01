@@ -1,5 +1,5 @@
 # Olá! Eu sou a Carol 👋
-Software Engineer em transição de carreira, com mais de 7 anos de experiência em Engenharia de Qualidade de Software e direcionando minha atuação para o desenvolvimento de software com TypeScript.
+Software Engineer em transição de carreira, com mais de 7 anos de experiência em Engenharia de Qualidade de Software e direcionando minha atuação para o desenvolvimento de software.
 💜 Integrante da comunidade **#WomenInTech**
 
 ---
@@ -9,6 +9,8 @@ Software Engineer em transição de carreira, com mais de 7 anos de experiência
 <div style="display: inline_block">
 <img align="center" alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Spring Boot" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ---
