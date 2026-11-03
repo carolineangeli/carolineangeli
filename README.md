@@ -1,5 +1,5 @@
 # Olá! Eu sou a Carol 👋
-Software Engineer em transição de carreira, com mais de 7 anos de experiência em Engenharia de Qualidade de Software e direcionando minha atuação para o desenvolvimento de software.
+Apaixonada por tecnologia e desenvolvimento de software, sigo aprendendo, evoluindo e construindo soluções.
 💜 Integrante da comunidade **#WomenInTech**
 
 ---
